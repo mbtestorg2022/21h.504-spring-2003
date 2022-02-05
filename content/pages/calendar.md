@@ -4,14 +4,129 @@ title: Calendar
 uid: b4f21947-da93-690e-697d-65e936525203
 ---
 
-| Ses # | Topics | Key Dates |
-| --- | --- | --- |
-| 1-2 | The Sixteenth Century Global Economy | &nbsp; |
-| 3-4 | Seventeenth Century Crises and Eighteenth Century Flourishing Ages | First paper due (Ses 4) |
-| 5-8 | Nineteenth Century Declines and Revivals | Midterm exam (Ses 8) |
-| 9-12 | Twentieth Century Upheavals | &nbsp; |
-| 13-16 | Post World War II Reform and Reconstruction | Second paper due (Ses 13) |
-| 17-20 | Korea, Vietnam, and The Cold War | &nbsp; |
-| 21-22 | Post-Cold War Reevaluations | Third paper due (Ses 22) |
-| 23-26 | Contemporary Issues in The Light of History | &nbsp; |
-| 27 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+The Sixteenth Century Global Economy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Seventeenth Century Crises and Eighteenth Century Flourishing Ages
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due (Ses 4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-8
+{{< tdclose >}}
+{{< tdopen >}}
+Nineteenth Century Declines and Revivals
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam (Ses 8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-12
+{{< tdclose >}}
+{{< tdopen >}}
+Twentieth Century Upheavals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-16
+{{< tdclose >}}
+{{< tdopen >}}
+Post World War II Reform and Reconstruction
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due (Ses 13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-20
+{{< tdclose >}}
+{{< tdopen >}}
+Korea, Vietnam, and The Cold War
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-22
+{{< tdclose >}}
+{{< tdopen >}}
+Post-Cold War Reevaluations
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due (Ses 22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-26
+{{< tdclose >}}
+{{< tdopen >}}
+Contemporary Issues in The Light of History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

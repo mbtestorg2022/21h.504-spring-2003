@@ -35,11 +35,56 @@ I expect from you:
 
 ### Grade Determination
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 3 Papers | 15% each |
-| Midterm | 10% |
-| Discussion | 20% |
-| Final Exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3 Papers
+{{< tdclose >}}
+{{< tdopen >}}
+15% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **A Note on Plagiarism: Using someone else's work without acknowledgment is plagiarism. If you commit this crime, you will at the least get a failing grade on the paper, and at worst fail the course and be taken to the Committee on Discipline.** Later, I will give you more detailed instructions how to cite sources and how to avoid unintentional plagiarism.
